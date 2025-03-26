@@ -1,4 +1,4 @@
-# 🕵️ **RedOps-Arsenal** ![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 🕵️ **RedOps-Arsenal** [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of security tools used in the red teaming engagements for bug bounty hunters, penetration testers, and ethical hackers. These tools help in reconnaissance, delivery, privilege escalation, and more.
 
